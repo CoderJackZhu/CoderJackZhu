@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderJackZhu in Xidian University in China.
+- 👋 Hi, I’m @CoderJackZhu a graduate student at the school of artificial intelligence of Xidian University in China.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Artificial Intelligence and Computer Vision.
 - 💞️ I’m looking to collaborate on ...
