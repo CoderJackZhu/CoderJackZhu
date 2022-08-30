@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Artificial Intelligence and Computer Vision.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--myblog: [jackzhu.top](https://jackzhu.top)
-
-### Tech Stacks
+- myblog: [jackzhu.top](https://jackzhu.top)
+- Tech Stacks
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
