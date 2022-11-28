@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderJackZhu a graduate student at the school of artificial intelligence of Xidian University in China.
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning Artificial Intelligence and Computer Vision.
+- 🌱 I’m currently learning Artificial Intelligence and Computer Vision. In detail, including video action temporal localization, fine-grained video recognition and multi-model medical image processing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - myblog: [jackzhu.top](https://jackzhu.top)
