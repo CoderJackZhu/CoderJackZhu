@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CoderJackZhu a graduate student at the school of artificial intelligence of Xidian University in China.
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning Artificial Intelligence and Computer Vision. In detail, including video action temporal localization, fine-grained video recognition and multi-model medical image processing.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- myblog: [jackzhu.top](https://jackzhu.top)
+Hi, I’m @CoderJackZhu, a current master's student of Xidian University, majoring in artificial intelligence. I’m currently learning Artificial Intelligence and Computer Vision. In detail, including
+-  video action temporal localization, fine-grained video recognition
+-  multi-model medical image segmentation and classification
+-  objection detection and pose estimate
+  
+  myblog: [jackzhu.top](https://jackzhu.top)
 - Tech Stacks
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
@@ -11,6 +11,8 @@
 </p>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CoderJackZhu?style=social">
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderjackzhu)
+[![coderjackzhu's github stats](https://github-readme-stats.vercel.app/api?username=coderjackzhu&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderjackzhu&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 CoderJackZhu/CoderJackZhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
