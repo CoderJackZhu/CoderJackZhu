@@ -1,6 +1,6 @@
 Hi, I’m @CoderJackZhu, a current master's student of Xidian University, majoring in artificial intelligence. I’m currently learning Artificial Intelligence and Computer Vision. In detail, including
 -  video action temporal localization, fine-grained video recognition
--  multi-model medical image segmentation and classification
+-  multi-model medical image segmentation and glioma classification
 -  objection detection and pose estimate
   
   myblog: [jackzhu.top](https://jackzhu.top)
