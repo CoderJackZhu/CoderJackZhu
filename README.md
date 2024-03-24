@@ -3,8 +3,7 @@ Hi, I’m @CoderJackZhu, a current master's student of Xidian University, majori
 -  multi-model medical image segmentation and glioma classification
 -  objection detection and pose estimate
   
-  myblog: [jackzhu.top](https://jackzhu.top)
-  [![example](https://img.shields.io/badge/My%20Blog-JackZhu-brightgreen)](https://jackzhu.top) &ensp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=CoderJackZhu.CoderJackZhu)
+  [![example](https://img.shields.io/badge/My%20Blog-JackZhu-brightgreen)](https://jackzhu.top) &ensp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=coderjackzhu.coderjackzhu)
 - Tech Stacks
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
