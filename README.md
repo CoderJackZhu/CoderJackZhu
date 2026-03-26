@@ -1,4 +1,5 @@
-Hi, I’m @CoderJackZhu, a current master's student of Xidian University, majoring in artificial intelligence. I’m currently learning Artificial Intelligence and Computer Vision. In detail, including
+Hi, I’m @CoderJackZhu, 
+a LLM Agent engineer in Baidu Inc. a master's student of Xidian University, majoring in artificial intelligence. I’m currently learning Artificial Intelligence and Computer Vision. In detail, including
 -  multi-model medical image segmentation and glioma classification
 -  objection detection and pose estimation
 -  AIGC including Image and text generation
