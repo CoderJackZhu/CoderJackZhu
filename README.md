@@ -25,7 +25,7 @@ I focus on **LLM Agents, Artificial Intelligence, Computer Vision, and Multimoda
 
 I am an **LLM Agent engineer** with a background in artificial intelligence and computer vision.
 
-My current interests include:
+My interests include:
 
 * LLM Agent systems and workflow orchestration
 * Tool use, function calling, RAG, and structured generation
