@@ -14,7 +14,7 @@ I focus on **LLM Agents, Artificial Intelligence, Computer Vision, and Multimoda
   <a href="https://jackzhu.top">
     <img src="https://img.shields.io/badge/Blog-JackZhu-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CoderJackZhu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CoderJackZhu&label=Profile%20Views&color=0e75b6&style=flat-square&cache=v2" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/CoderJackZhu?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/CoderJackZhu?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
 </p>
